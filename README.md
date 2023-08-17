@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bem-vindo ao meu perfil 😁👍
 
-<!--
-**Gusta1D/Gusta1D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Me chamo Gustavo Ferreira, atual estudante de programação pelo ALURA;
+- Utilizo as plataformas de programação do Scratch e p5.js (linguagem em Java)
+- Faço pequenas animações e jogos;
 
-Here are some ideas to get you started:
+### Alguns dos meus trabalhos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://scratch.mit.edu/projects/820737258/
+https://scratch.mit.edu/projects/821117668/
+https://scratch.mit.edu/projects/849516404/
+https://editor.p5js.org/gustavo.chaves.almeida/sketches/uWFrWdg3v
+https://editor.p5js.org/gustavo.chaves.almeida/sketches/vXgHIKwVw
+
+### Contate-me 🤖🤖
+
+gustavoferreiraproductions@email.com
+
+### You're welcome 🤠
